@@ -1,0 +1,100 @@
+{
+  "profile": {
+    "name": "Yang-de Chen",
+    "headline": "Machine Learning Engineer at Taiwan AILabs",
+    "location": "Taiwan",
+    "connections": "1 connection",
+    "imageurl": "https://media-exp1.licdn.com/dms/image/C5603AQGgetmaxN_Tvw/profile-displayphoto-shrink_200_200/0/1550318840695?e=1616025600&v=beta&t=G6iQ7prIcAON-tYUeo7QgIG8C_GB2ajPWKMVHl1krq4",
+    "summary": "I'm a speech recognition engineer. I am proficient in Kaldi's WFST framework. And I am able to build history-conditioned decoder presented in RASR to support dynamic decoder, which decreases FST model size and saves the model-building time."
+  },
+  "about": {
+    "text": "I'm a speech recognition engineer. I am proficient in Kaldi's WFST framework. And I am able to build history-conditioned decoder presented in RASR to support dynamic decoder, which decreases FST model size and saves the model-building time."
+  },
+  "positions": [
+    {
+      "title": "Machine Learning Engineer",
+      "link": "https://www.linkedin.com/company/ailabstw/",
+      "url": "https://www.linkedin.com/company/ailabstw/",
+      "companyName": "Taiwan AILabs Full-time",
+      "location": "Taipei City, Taiwan",
+      "description": "Speech recognition engineer.\n- Familiar with Kaldi's acoustic modeling and WFST decoding\n- Build RASR's history-conditioned decoder from scratch",
+      "date1": "Jan 2019 – Present",
+      "date2": "2 yrs 1 mo"
+    },
+    {
+      "title": "Speech engineer",
+      "link": "https://www.linkedin.com/company/mobvoi/",
+      "url": "https://www.linkedin.com/company/mobvoi/",
+      "companyName": "Mobvoi 出门问问 Full-time",
+      "description": "Do hotword triggering.",
+      "date1": "Sep 2018 – Jan 2019",
+      "date2": "5 mos"
+    }
+  ],
+  "educations": [
+    {
+      "title": "National Taiwan University",
+      "degree": "Master's degree",
+      "url": "https://www.linkedin.com/school/17469/?legacySchoolId=17469",
+      "fieldOfStudy": "Electrical, Electronics and Communications Engineering",
+      "date1": "2015",
+      "date2": "2017"
+    },
+    {
+      "title": "National Taiwan University",
+      "degree": "Bachelor's degree",
+      "url": "https://www.linkedin.com/school/17469/?legacySchoolId=17469",
+      "fieldOfStudy": "Electrical, Electronics and Communications Engineering",
+      "date1": "2011",
+      "date2": "2015"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Speech Recognition"
+    }
+  ],
+  "recommendations": {
+    "givenCount": "0",
+    "receivedCount": "0",
+    "given": [
+      {}
+    ],
+    "received": []
+  },
+  "accomplishments": [],
+  "peopleAlsoViewed": [
+    {
+      "user": "https://www.linkedin.com/in/ethan-tu-8548273/",
+      "text": "We are building the team for Taiwan AILabs",
+      "profileImage": "https://media-exp1.licdn.com/dms/image/C4E03AQFCtTnfc93-GQ/profile-displayphoto-shrink_100_100/0/1516321753144?e=1616025600&v=beta&t=-FctLuRiRjP3v45XEqcWZs3xZlSDKwpAmP252MpMGtA",
+      "name": "Ethan Tu"
+    },
+    {
+      "user": "https://www.linkedin.com/in/keng-chi-liu-527b29143/",
+      "text": "Taiwan AILabs Machine Learning Research Engineer",
+      "profileImage": "https://media-exp1.licdn.com/dms/image/C5103AQFvjP8j6y4Uig/profile-displayphoto-shrink_100_100/0/1551964704860?e=1616025600&v=beta&t=MpdOFRemaxKpPxgI5kOcgj-LhTWH8RiReFRpf4aP9Lg",
+      "name": "Keng-Chi Liu"
+    },
+    {
+      "user": "https://www.linkedin.com/in/yt-lin-42b89367/",
+      "text": "聯發科 Deputy Director",
+      "profileImage": "https://media-exp1.licdn.com/dms/image/C5603AQEOKW8K_UiCLA/profile-displayphoto-shrink_100_100/0/1517365002634?e=1616025600&v=beta&t=qvgMyaMC6kfQtOrHOxKVrNT8Ded83sG3yOe23jYJgyA",
+      "name": "YT Lin"
+    },
+    {
+      "user": "https://www.linkedin.com/in/jenyuliu/",
+      "text": "Machine Learning Researcher at Taiwan AILabs",
+      "profileImage": "https://media-exp1.licdn.com/dms/image/C5603AQEOuyapOIJu3g/profile-displayphoto-shrink_100_100/0/1597744727925?e=1616025600&v=beta&t=0QUenvhG5vN3z8mXhKVmCR4oMnVBLBfhwyI5gX97ZvU",
+      "name": "Jen-Yu Liu"
+    },
+    {
+      "user": "https://www.linkedin.com/in/chun-fu-yeh-784172ab/",
+      "text": "Machine Learning Engineer at Taiwan AILabs",
+      "profileImage": "https://media-exp1.licdn.com/dms/image/C5603AQFRnRyh9eNsZw/profile-displayphoto-shrink_100_100/0/1517635844450?e=1616025600&v=beta&t=V-EtmZkiwSawuKIjhQ5W3YZsguAIeZqDNEc1igZwr8Y",
+      "name": "Chun-Fu Yeh"
+    }
+  ],
+  "volunteerExperience": [],
+  "contact": []
+}
